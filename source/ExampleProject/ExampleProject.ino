@@ -23,3 +23,7 @@ void lolMethod()
 {
   
 }
+
+void mistakeMethod()
+{
+}
